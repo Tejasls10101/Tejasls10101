@@ -1,120 +1,142 @@
 <div align="center">
 
-# ☠️ SHARVAN KUMAR VERMA
+# ☠️ TEJAS GUPTA
 
-### 🔴 Offensive Security | 🛡️ Ethical Hacker | 🌐 Web Application Penetration Tester
+### 🔴 Offensive Security Engineer | 🛡️ Ethical Hacker | 🌐 Web Application Pentester
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=CEH+Certified+Cybersecurity+Professional;Web+Application+Penetration+Tester;Digital+Forensics+Practitioner;OSINT+Investigator;Always+Learning+Always+Securing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=CEH+Certified+Cybersecurity+Professional;Web+Application+Penetration+Tester;Digital+Forensics+Practitioner;OSINT+Investigator;Red+Team+Mindset+%7C+Blue+Team+Discipline;Think+Like+An+Attacker+Build+Like+A+Defender" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&label=PROFILE+VIEWS\&color=brightgreen\&style=for-the-badge)
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 💀 Professional Summary
-
-```bash
-> whoami
-
-CEH-certified Cybersecurity Professional specializing in
-Web Application Penetration Testing (WAPT).
-
-Expertise:
-- OWASP Top 10 Assessments
-- Vulnerability Research
-- Security Analysis
-- Digital Forensics
-- OSINT Investigations
-- Incident Response
-
-Mission:
-Identify vulnerabilities before adversaries do.
-```
-
----
-
-## ⚡ Arsenal
-
-### 🛡️ Cybersecurity
-
-<p>
-✔ Web Application Penetration Testing<br>
-✔ Vulnerability Assessment<br>
-✔ Digital Forensics<br>
-✔ OSINT Investigation<br>
-✔ Incident Response<br>
-✔ Security Auditing<br>
-✔ Network Security
-</p>
-
-### ⚔️ Security Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,mysql" />
-</p>
+# 💀 SYSTEM PROFILE
 
 ```yaml
-Recon:
-  - Nmap
-  - Maltego
-  - Angry IP Scanner
+Name: Tejas Gupta
+Role: Cybersecurity Professional
+Certification: CEH v12
+Specialization: Web Application Penetration Testing
 
-Web Security:
-  - Burp Suite
-  - SQLMap
-  - Nikto
+Status:
+  Recon: Active
+  Threat Hunting: Active
+  Research: Active
+  Learning: Infinite
 
-Network Analysis:
-  - Wireshark
-  - TCPDump
-
-Exploitation:
-  - Metasploit Framework
+Mission:
+  Identify vulnerabilities before attackers do.
 ```
 
 ---
 
-## 🎓 Certifications
+# ⚡ THREAT ANALYSIS DASHBOARD
 
-🏆 Certified Ethical Hacker (CEH v12) — EC-Council
+<table>
+<tr>
+<td>🌐 Web Application Security</td>
+<td>██████████████████ 95%</td>
+</tr>
 
-🏆 Web Application Penetration Testing — GUVI/HCL
+<tr>
+<td>🔍 OSINT Investigation</td>
+<td>████████████████░░ 90%</td>
+</tr>
 
-🏆 Digital Forensics Associate — Cyber Intelligence Global LLP
+<tr>
+<td>📡 Network Analysis</td>
+<td>███████████████░░░ 85%</td>
+</tr>
 
-🏆 Introduction to OSINT — Security Blue Team
+<tr>
+<td>🧪 Digital Forensics</td>
+<td>██████████████░░░░ 80%</td>
+</tr>
 
-🏆 ISO/IEC 27001:2022 Lead Auditor — Mastermind Assurance
-
-🏆 DROP Certified Security Course (DCSC)
-
-🏆 Cyber Hygiene Practitioner — MeitY, Government of India
-
-🏆 Introduction to Cyber Security — Cisco Networking Academy
+<tr>
+<td>🚨 Incident Response</td>
+<td>█████████████░░░░░ 75%</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+# ⚔️ RED TEAM ARSENAL
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,mysql,vscode" />
+
+</div>
+
+```bash
+root@security-lab:~#
+
+Recon:
+ ├── Nmap
+ ├── Maltego
+ └── Angry IP Scanner
+
+Web Security:
+ ├── Burp Suite
+ ├── SQLMap
+ └── Nikto
+
+Network Analysis:
+ ├── Wireshark
+ └── Tcpdump
+
+Exploitation:
+ └── Metasploit Framework
+```
+
+---
+
+# 🎓 CERTIFICATION VAULT
+
+```diff
++ Certified Ethical Hacker (CEH v12) - EC-Council
++ Web Application Penetration Testing - GUVI/HCL
++ Digital Forensics Associate - Cyber Intelligence Global LLP
++ Introduction to OSINT - Security Blue Team
++ ISO/IEC 27001:2022 Lead Auditor
++ DROP Certified Security Course (DCSC)
++ Cyber Hygiene Practitioner - MeitY
++ Introduction to Cyber Security - Cisco
+```
+
+---
+
+# 🚀 PROJECT VAULT
 
 ### ⌨️ Keylogger Development | Python
 
 ```bash
-Purpose: Educational & Authorized Security Research
+[PROJECT STATUS] COMPLETED
 
-✓ Captured keystrokes in controlled environments
-✓ Demonstrated endpoint security weaknesses
-✓ Showcased risks of weak monitoring controls
-✓ Security awareness and defense training
+Objective:
+Authorized Security Research
+
+Capabilities:
+✓ Keystroke Monitoring
+✓ Endpoint Security Demonstration
+✓ Security Awareness Training
+✓ Controlled Environment Testing
 ```
 
 ### 📡 Network Packet Sniffer & Protocol Analyzer
 
 ```bash
+[PROJECT STATUS] COMPLETED
+
 Tech Stack:
 Python + Scapy
 
-Capabilities:
+Modules:
 ✓ Live Packet Capture
 ✓ TCP Analysis
 ✓ UDP Analysis
@@ -125,53 +147,62 @@ Capabilities:
 
 ---
 
-## 🎯 Current Focus
+# 🎯 CURRENT TARGETS
 
-🔴 Web Application Penetration Testing
-
-🔴 OWASP Top 10 Security Assessments
-
-🔴 Digital Forensics & Incident Response
-
-🔴 Cyber Investigation
-
-🔴 Security Awareness Training
-
-🔴 Red Team Methodologies
+```diff
++ Web Application Penetration Testing
++ OWASP Top 10 Assessments
++ Security Research
++ Red Team Operations
++ Digital Forensics
++ Threat Hunting
++ Cyber Investigation
+```
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 ESTABLISH CONNECTION
 
-<p align="center">
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a> •
-<a href="YOUR_PORTFOLIO">Portfolio</a>
-</p>
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">LinkedIn</a> • <a href="mailto:YOUR_EMAIL">Email</a> • <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🛡️ "Security is not a product, it's a process."
+## 🛡️ SECURITY MOTTO
+
+> "Security is not a product, it's a process."
 
 — Bruce Schneier
 
 ```text
 [ ACCESS GRANTED ]
-Welcome to my cybersecurity journey.
+
+Welcome to the digital battlefield.
+
+Red Team Mindset.
+Blue Team Discipline.
+Continuous Learning.
 ```
 
 </div>

@@ -2,9 +2,9 @@
 
 # ☠️ TEJAS GUPTA
 
-### 🔴 Offensive Security Engineer | 🛡️ Ethical Hacker | 🌐 Web Application Pentester
+### 🔴 Offensive Security | 🛡️ Ethical Hacker | 🌐 Web Application Penetration Tester
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=CEH+Certified+Cybersecurity+Professional;Web+Application+Penetration+Tester;Digital+Forensics+Practitioner;OSINT+Investigator;Red+Team+Mindset+%7C+Blue+Team+Discipline;Think+Like+An+Attacker+Build+Like+A+Defender" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=CEH+Certified+Cybersecurity+Professional;Web+Application+Penetration+Tester;Digital+Forensics+Practitioner;OSINT+Investigator;Red+Team+Mindset+%7C+Blue+Team+Discipline;Think+Like+An+Attacker+Build+Like+A+Defender" />
 
 <br>
 
@@ -18,15 +18,23 @@
 
 ```yaml
 Name: Tejas Gupta
+
 Role: Cybersecurity Professional
-Certification: CEH v12
-Specialization: Web Application Penetration Testing
+
+Certification:
+  - CEH v12
+
+Specialization:
+  - Web Application Penetration Testing
+  - Vulnerability Assessment
+  - Digital Forensics
+  - OSINT Investigation
 
 Status:
-  Recon: Active
-  Threat Hunting: Active
-  Research: Active
-  Learning: Infinite
+  Recon: ACTIVE
+  Threat Hunting: ACTIVE
+  Research: ACTIVE
+  Learning: INFINITE
 
 Mission:
   Identify vulnerabilities before attackers do.
@@ -36,32 +44,13 @@ Mission:
 
 # ⚡ THREAT ANALYSIS DASHBOARD
 
-<table>
-<tr>
-<td>🌐 Web Application Security</td>
-<td>██████████████████ 95%</td>
-</tr>
-
-<tr>
-<td>🔍 OSINT Investigation</td>
-<td>████████████████░░ 90%</td>
-</tr>
-
-<tr>
-<td>📡 Network Analysis</td>
-<td>███████████████░░░ 85%</td>
-</tr>
-
-<tr>
-<td>🧪 Digital Forensics</td>
-<td>██████████████░░░░ 80%</td>
-</tr>
-
-<tr>
-<td>🚨 Incident Response</td>
-<td>█████████████░░░░░ 75%</td>
-</tr>
-</table>
+| Skill                       | Level                   |
+| --------------------------- | ----------------------- |
+| 🌐 Web Application Security | ███████████████████ 95% |
+| 🔍 OSINT Investigation      | ██████████████████░ 90% |
+| 📡 Network Security         | █████████████████░░ 85% |
+| 🧪 Digital Forensics        | ████████████████░░░ 80% |
+| 🚨 Incident Response        | ███████████████░░░░ 75% |
 
 ---
 
@@ -106,29 +95,29 @@ Exploitation:
 + ISO/IEC 27001:2022 Lead Auditor
 + DROP Certified Security Course (DCSC)
 + Cyber Hygiene Practitioner - MeitY
-+ Introduction to Cyber Security - Cisco
++ Introduction to Cyber Security - Cisco Networking Academy
 ```
 
 ---
 
 # 🚀 PROJECT VAULT
 
-### ⌨️ Keylogger Development | Python
+## ⌨️ Keylogger Development | Python
 
 ```bash
 [PROJECT STATUS] COMPLETED
 
-Objective:
-Authorized Security Research
+Purpose:
+Educational Security Research
 
-Capabilities:
-✓ Keystroke Monitoring
+Features:
+✓ Authorized Keystroke Monitoring
 ✓ Endpoint Security Demonstration
 ✓ Security Awareness Training
 ✓ Controlled Environment Testing
 ```
 
-### 📡 Network Packet Sniffer & Protocol Analyzer
+## 📡 Network Packet Sniffer & Protocol Analyzer
 
 ```bash
 [PROJECT STATUS] COMPLETED
@@ -143,6 +132,7 @@ Modules:
 ✓ ICMP Monitoring
 ✓ Traffic Visualization
 ✓ Protocol Distribution Analytics
+✓ Packet Inspection Automation
 ```
 
 ---
@@ -151,11 +141,12 @@ Modules:
 
 ```diff
 + Web Application Penetration Testing
-+ OWASP Top 10 Assessments
++ OWASP Top 10 Security Assessments
 + Security Research
-+ Red Team Operations
 + Digital Forensics
 + Threat Hunting
++ Incident Response
++ Red Team Operations
 + Cyber Investigation
 ```
 
@@ -177,11 +168,25 @@ Modules:
 
 ---
 
-# 🌐 ESTABLISH CONNECTION
+# 🌐 CONNECT WITH ME
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> • <a href="mailto:YOUR_EMAIL">Email</a> • <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@YOUR_CHANNEL">
+<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -191,18 +196,18 @@ Modules:
 
 ## 🛡️ SECURITY MOTTO
 
-> "Security is not a product, it's a process."
+> Security is not a product, it's a process.
 
-— Bruce Schneier
+### — Bruce Schneier
 
 ```text
 [ ACCESS GRANTED ]
 
-Welcome to the digital battlefield.
+Welcome To The Digital Battlefield
 
-Red Team Mindset.
-Blue Team Discipline.
-Continuous Learning.
+Red Team Mindset
+Blue Team Discipline
+Never Stop Learning
 ```
 
 </div>

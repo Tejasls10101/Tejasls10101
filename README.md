@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=tejasls10101&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" />
 
 </div>
 
@@ -176,11 +176,11 @@ Modules:
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://youtube.com/@YOUR_CHANNEL">
+<a href="https://instagram.com/@YOUR_CHANNEL">
 <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href=" guptatejas651@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
